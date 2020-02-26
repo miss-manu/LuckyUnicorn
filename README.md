@@ -3,8 +3,8 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
 
 ## Task List
 - [x] Create Main File ( layout-ish )
-- [x] Finish Game in Python
-- [ ] Create GUI in c++
+- [x] Finish Coding Game in Python
+- [ ] Create GUI
 - [ ] Create Pixelart for Silly Game
 
 ## FAQ
