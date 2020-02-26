@@ -10,11 +10,11 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
 
 ## Update Log
 - Version 0.0.1
-  - Created [MainFile]()
-  - Created [Reservoir sample files]()
+  - Created [MainFile](./LuckyUnicorn.py)
+  - Created [Reservoir sample files](./ReservoirFiles)
   - Created [ReadMe](README.md)
   - Created [License](LICENSE)
-  
+
 ## FAQ
 - Can you do X for me?
   - No, I only work for myself or close friends.
