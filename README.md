@@ -7,6 +7,15 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
 - [ ] Create GUI in c++
 - [ ] Create Pixelart for Silly Game
 
+## FAQ
+- Can you do X for me?
+  - No, I only work for myself or close friends.
+
+- Can you do X for me? I'll pay you!
+  - No.
+
+- I found someone who copied this and is selling it/released it without mentioning you.
+  -  Good for them, I don't care.
 
 ## Update Log
 - Version 1.0.0
@@ -20,13 +29,3 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
   - Created [Reservoir sample files](./ReservoirFiles)
   - Created [ReadMe](README.md)
   - Created [License](LICENSE)
-
-## FAQ
-- Can you do X for me?
-  - No, I only work for myself or close friends.
-
-- Can you do X for me? I'll pay you!
-  - No.
-
-- I found someone who copied this and is selling it/released it without mentioning you.
-  -  Good for them, I don't care.
