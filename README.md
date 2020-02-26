@@ -3,12 +3,18 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
 
 ## Task List
 - [x] Create Main File ( layout-ish )
-- [ ] Finish Game in Python
+- [x] Finish Game in Python
 - [ ] Create GUI in c++
 - [ ] Create Pixelart for Silly Game
 
 
 ## Update Log
+- Version 1.0.0
+  - Updated [MainFile](./LuckyUnicorn.py)
+  - Updated [Reservoir Sample Files](./ReservoirFiles)
+  - Created [Functions](./Functions)
+  - Finished Game in Python \(expect future updates\)
+  
 - Version 0.0.1
   - Created [MainFile](./LuckyUnicorn.py)
   - Created [Reservoir sample files](./ReservoirFiles)
