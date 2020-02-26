@@ -20,7 +20,7 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
   - No, I only work for myself or close friends.
 
 - Can you do X for me? I'll pay you!
-  - Not Yet unless you would like a discord bot.
+  - No.
 
 - I found someone who copied this and is selling it/released it without mentioning you.
   -  Good for them, I don't care.
