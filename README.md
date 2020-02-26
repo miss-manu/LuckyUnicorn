@@ -13,7 +13,7 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
   - Created [MainFile]()
   - Created [Reservoir sample files]()
   - Created [ReadMe](README.md)
-  - Created [License]()
+  - Created [License](LICENSE)
   
 ## FAQ
 - Can you do X for me?
