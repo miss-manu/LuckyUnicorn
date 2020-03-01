@@ -4,8 +4,7 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
 ## Task List
 - [x] Create Main File ( layout-ish )
 - [x] Finish Coding Game in Python
-- [ ] Create GUI
-- [ ] Create Pixelart for Silly Game
+
 
 ## FAQ
 - Can you do X for me?
@@ -22,7 +21,7 @@ I'm Pluto, if for some reason you would like to contact me you can add me on dis
   - Updated [MainFile](./LuckyUnicorn.py)
   - Updated [Reservoir Sample Files](./ReservoirFiles)
   - Created [Functions](./Functions)
-  - Finished Game in Python \(expect future updates\)
+  - Finished Game in Python 
   
 - Version 0.0.1
   - Created [MainFile](./LuckyUnicorn.py)
